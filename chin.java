@@ -5,7 +5,8 @@ throws java.io.IOException
 	{
 char input;
 int counter = 0;
-System.out.println("Enter symbols, end yor input with dot:\n");
+
+//System.out.println("Enter symbols, end yor input with dot:\n");
 	do
 		{
 		input = (char) System.in.read();
